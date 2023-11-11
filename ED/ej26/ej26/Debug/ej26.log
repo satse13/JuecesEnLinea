@@ -1,0 +1,42 @@
+﻿  ej26.cpp
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(13,1): error C2955: 'list<T>::Iterador': el uso de clase plantilla requiere una lista de argumentos de plantilla
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\list_eda.h(28): message : vea la declaración de 'list<T>::Iterador'
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(27): message : Vea la referencia a la creación de una instancia de clase plantilla "list_eda_plus<T>" que se está compilando
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(17,13): error C2065: 'act': identificador no declarado
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(17,13): error C3861: 'act': no se encontró el identificador
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(17,20): error C3861: 'fan': no se encontró el identificador
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(18,9): error C3861: 'act': no se encontró el identificador
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(18,15): error C3861: 'act': no se encontró el identificador
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(42,29): error C2514: "list<T>::Iterador": no se puede construir una plantilla de clase
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\list_eda.h(28): message : vea la declaración de 'list<T>::Iterador'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(43,15): error C2678: '->' binario: no se encontró un operador que adopte un operando en la parte izquierda de tipo 'list<T>::Iterador' (o bien no existe una conversión aceptable)
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\list_eda.h(45,19): message : puede ser 'Apuntado *list<T>::Iterador<Apuntado>::operator ->(void) const'
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(43,15): message : al hacer coincidir la lista de argumentos '(list<T>::Iterador)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(43,17): error C2039: "elem": no es un miembro de "list<T>::Iterador"
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\list_eda.h(28): message : vea la declaración de 'list<T>::Iterador'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(73,1): error C2059: error de sintaxis: '}'
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej26\ej26\ej26.cpp(73,1): error C2143: error de sintaxis: falta ';' delante de '}'

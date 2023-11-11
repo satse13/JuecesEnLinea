@@ -1,0 +1,4 @@
+﻿  ej43.cpp
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej43\ej43\ej43.cpp(49,18): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej43\ej43\ej43.cpp(63,18): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+  ej43.vcxproj -> C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej43\Debug\ej43.exe

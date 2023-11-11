@@ -1,0 +1,210 @@
+﻿  ej11.cpp
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(25,1): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'linked_list_ed<T>::Nodo *' (o bien no existe una conversión aceptable)
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : puede ser 'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(linked_list_ed<T>::Nodo &&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : o       'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(const linked_list_ed<T>::Nodo &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(25,1): message : al hacer coincidir la lista de argumentos '(linked_list_ed<T>::Nodo, linked_list_ed<T>::Nodo *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(21): message : al compilar la función del miembro clase plantilla "void linked_list_ed_plus<int>::unir(linked_list_ed_plus<int> &)"
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\ej11.cpp(88): message : Vea la referencia a la creación de una instancia de la función plantilla "void linked_list_ed_plus<int>::unir(linked_list_ed_plus<int> &)" que se está compilando
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\ej11.cpp(72): message : Vea la referencia a la creación de una instancia de clase plantilla "linked_list_ed_plus<int>" que se está compilando
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(28,1): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'linked_list_ed<T>::Nodo *' (o bien no existe una conversión aceptable)
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : puede ser 'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(linked_list_ed<T>::Nodo &&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : o       'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(const linked_list_ed<T>::Nodo &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(28,1): message : al hacer coincidir la lista de argumentos '(linked_list_ed<T>::Nodo, linked_list_ed<T>::Nodo *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(31,1): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'linked_list_ed<T>::Nodo *' (o bien no existe una conversión aceptable)
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : puede ser 'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(linked_list_ed<T>::Nodo &&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : o       'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(const linked_list_ed<T>::Nodo &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(31,1): message : al hacer coincidir la lista de argumentos '(linked_list_ed<T>::Nodo, linked_list_ed<T>::Nodo *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(32,27): error C2676: '!=' binario: 'linked_list_ed<T>::Nodo' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(33,1): error C2819: el tipo 'linked_list_ed<T>::Nodo' no tiene un miembro sobrecargado 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(29): message : vea la declaración de 'linked_list_ed<T>::Nodo'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(33,1): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(33,1): error C2232: '->linked_list_ed<T>::Nodo::elem': el operando izquierdo tiene el tipo 'struct'; utilice '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(34,1): error C2819: el tipo 'linked_list_ed<T>::Nodo' no tiene un miembro sobrecargado 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(29): message : vea la declaración de 'linked_list_ed<T>::Nodo'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(34,1): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(34,1): error C2232: '->linked_list_ed<T>::Nodo::sig': el operando izquierdo tiene el tipo 'struct'; utilice '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(35,1): error C2819: el tipo 'linked_list_ed<T>::Nodo' no tiene un miembro sobrecargado 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(29): message : vea la declaración de 'linked_list_ed<T>::Nodo'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(35,1): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(35,1): error C2232: '->linked_list_ed<T>::Nodo::sig': el operando izquierdo tiene el tipo 'struct'; utilice '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(36,36): error C2676: '!=' binario: 'linked_list_ed<T>::Nodo' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(36,1): error C2819: el tipo 'linked_list_ed<T>::Nodo' no tiene un miembro sobrecargado 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(29): message : vea la declaración de 'linked_list_ed<T>::Nodo'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(36,1): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(36,1): error C2232: '->linked_list_ed<T>::Nodo::elem': el operando izquierdo tiene el tipo 'struct'; utilice '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(38,1): error C2819: el tipo 'linked_list_ed<T>::Nodo' no tiene un miembro sobrecargado 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(29): message : vea la declaración de 'linked_list_ed<T>::Nodo'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(38,1): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(38,1): error C2232: '->linked_list_ed<T>::Nodo::sig': el operando izquierdo tiene el tipo 'struct'; utilice '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(40,1): error C2819: el tipo 'linked_list_ed<T>::Nodo' no tiene un miembro sobrecargado 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(29): message : vea la declaración de 'linked_list_ed<T>::Nodo'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(40,1): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(40,1): error C2232: '->linked_list_ed<T>::Nodo::sig': el operando izquierdo tiene el tipo 'struct'; utilice '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(41,1): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'linked_list_ed<T>::Nodo *' (o bien no existe una conversión aceptable)
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : puede ser 'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(linked_list_ed<T>::Nodo &&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : o       'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(const linked_list_ed<T>::Nodo &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(41,1): message : al hacer coincidir la lista de argumentos '(linked_list_ed<T>::Nodo, linked_list_ed<T>::Nodo *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(45,1): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'linked_list_ed<T>::Nodo *' (o bien no existe una conversión aceptable)
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : puede ser 'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(linked_list_ed<T>::Nodo &&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed.h(34,1): message : o       'linked_list_ed<T>::Nodo &linked_list_ed<T>::Nodo::operator =(const linked_list_ed<T>::Nodo &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\htm19\OneDrive\Documentos\Universidad\Asignaturas\Segundo curso\ED\Juez en linea\ej11\ej11\linked_list_ed_plus.h(45,1): message : al hacer coincidir la lista de argumentos '(linked_list_ed<T>::Nodo, linked_list_ed<T>::Nodo *)'
+          with
+          [
+              T=int
+          ]
